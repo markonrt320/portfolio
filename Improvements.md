@@ -1,18 +1,18 @@
 **Improvements written based on experience that I had using webshop http://shop.vremeplov.co.rs/**
 
+<br>
+
 Current: Current state in app
 Requested: What changes should be made, what should be deleted, what should be added.
 Reason: Reason why this app needs improvement. Is it making user experience better?
 
+<br>
 
 Improvements are made to refine and optimize existing processes, systems, or products, aiming to increase efficiency, effectiveness, and overall quality. 
 I wrote about improvements to highlight your ability to identify areas for enhancement and implement solutions to drive positive change and achieve better outcomes within projects or organizations.
 
 <br>
-
-
-
-<br><br>
+<br>
 
 **1. Improvement - product pictures**
 <br><br>
