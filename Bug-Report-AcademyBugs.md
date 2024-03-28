@@ -22,6 +22,7 @@
 **Severity:** Low<br>
 **Priority:** Low<br>
 **Attachment:** 
+![bugreport](https://github.com/markonrt320/QA-portfolio/assets/164415938/2cd3ba91-789d-4b35-9a8e-c74c762ced24)
 <br>
 <hr>
 <br>
@@ -73,8 +74,10 @@
 **Priority:** Medium<br>
 **Repro rate:** 100%<br>
 **Attachment:** <br>
+![Slika1](https://github.com/markonrt320/QA-portfolio/assets/164415938/3207795b-de56-4ff5-8f9a-bef4ae6cb785)
+![Slika2](https://github.com/markonrt320/QA-portfolio/assets/164415938/d6e92cab-fee3-4624-bbca-7de0ec73e743)
 
-![BugReport3](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+
 <br>
 <hr>
 <br>
@@ -104,7 +107,8 @@
 **Repro rate:** 100%<br>
 **Attachment:** <br>
 
-![BugReport4](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+![Slika3](https://github.com/markonrt320/QA-portfolio/assets/164415938/c4c509fb-e0ad-4174-bd2e-0674b78e608a)
+
 <br>
 <hr>
 <br>
@@ -134,8 +138,10 @@
 **Priority:** Low<br>
 **Repro rate:** 100%<br>
 **Attachment:** <br>
+https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=sharing
+![Slika4](https://github.com/markonrt320/QA-portfolio/assets/164415938/48d0cbe0-6b08-4749-a24f-bb101756c162)
 
-![BugReport5](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+
 <br>
 <hr>
 <br>
@@ -164,7 +170,7 @@
 **Repro rate:** 100%<br>
 **Attachment:** <br>
 
-![BugReport6](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+![Slika5](https://github.com/markonrt320/QA-portfolio/assets/164415938/2bff81fa-ff6c-4603-ad78-36d4a05f49b0)
 <br>
 <hr>
 <br>
@@ -193,7 +199,7 @@
 **Repro rate:** 100%<br>
 **Attachment:** <br>
 
-![BugReport7](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=sharing
 <br>
 <hr>
 <br>
