@@ -1,6 +1,5 @@
 # Bug report #
-**lorem ipsum objasni zasto pisemo bug report**
-
+Academy Bugs helps you to understand the different types of bugs and aids you to differentiate between them by showcasing what/where might be a bug.
 <br>
 
 ## 1. BUG REPORT ##
