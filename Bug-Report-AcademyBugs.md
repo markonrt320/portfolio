@@ -44,7 +44,7 @@
 **Type of bug:** Visual<br>
 **Severity:** High<br>
 **Priority:** High<br>
-**Attachment:** <br>
+**Attachment:** <br> <br>
 ![bugreport](https://github.com/markonrt320/QA-portfolio/assets/164415938/2cd3ba91-789d-4b35-9a8e-c74c762ced24)
 <br>
 <hr>
@@ -73,7 +73,7 @@
 **Severity:** Medium<br>
 **Priority:** Medium<br>
 **Repro rate:** 100%<br>
-**Attachment:** <br>
+**Attachment:** <br><br>
 ![Slika1](https://github.com/markonrt320/QA-portfolio/assets/164415938/3207795b-de56-4ff5-8f9a-bef4ae6cb785)
 ![Slika2](https://github.com/markonrt320/QA-portfolio/assets/164415938/d6e92cab-fee3-4624-bbca-7de0ec73e743)
 
@@ -105,7 +105,7 @@
 **Severity:** Medium<br>
 **Priority:** High<br>
 **Repro rate:** 100%<br>
-**Attachment:** <br>
+**Attachment:** <br><br>
 
 ![Slika3](https://github.com/markonrt320/QA-portfolio/assets/164415938/c4c509fb-e0ad-4174-bd2e-0674b78e608a)
 
@@ -137,9 +137,11 @@
 **Severity:** Low<br>
 **Priority:** Low<br>
 **Repro rate:** 100%<br>
-**Attachment:** <br>
+**Attachment:** <br><br>
 
 https://github.com/markonrt320/QA-portfolio/assets/164415938/a005e0df-14f7-4c06-bd20-e089436d4e11
+
+<br>
 ![Slika4](https://github.com/markonrt320/QA-portfolio/assets/164415938/48d0cbe0-6b08-4749-a24f-bb101756c162)
 
 
@@ -169,7 +171,7 @@ https://github.com/markonrt320/QA-portfolio/assets/164415938/a005e0df-14f7-4c06-
 **Severity:** Low<br>
 **Priority:** Low<br>
 **Repro rate:** 100%<br>
-**Attachment:** <br>
+**Attachment:** <br><br>
 
 ![Slika5](https://github.com/markonrt320/QA-portfolio/assets/164415938/2bff81fa-ff6c-4603-ad78-36d4a05f49b0)
 <br>
@@ -198,7 +200,7 @@ https://github.com/markonrt320/QA-portfolio/assets/164415938/a005e0df-14f7-4c06-
 **Severity:** Medium<br>
 **Priority:** Medium<br>
 **Repro rate:** 100%<br>
-**Attachment:** <br>
+**Attachment:** <br> <br>
 
 https://github.com/markonrt320/QA-portfolio/assets/164415938/e6e566cd-d651-4da6-88f6-894cb7e4c52b
 
