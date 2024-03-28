@@ -79,4 +79,121 @@
 <hr>
 <br>
 
- 
+## 4. BUG REPORT ##
+<br><br>
+**Summary:** Cart | Grand Total of the cart isn’t equal to the price of the products that are placed in the cart. <br>
+
+**BugID:** AcademyBugs#003<br>
+
+**Type of bug:** Functional<br>
+
+**Description:** <br>
+
+**Steps to reproduce:** <br> 
+  1. Visit page https://academybugs.com/contact-us-form/ <br>
+  2. Click on ‘Add to cart’ for several products. <br>
+  3. Press on the appeared green button ‘Checkout now’.<br>
+
+**Expected:** Grand Total should be equal to summed prices of products that were added to cart.<br>
+**Actual:** Grand Total of the added products isn’t equal to the sum of the products.<br>
+
+**Environment:** Chrome on Xiaomi Mi 12 Lite (Chrome version 122.0.6261.105) <br>
+
+**Severity:** Medium<br>
+**Priority:** High<br>
+**Repro rate:** 100%<br>
+**Attachment:** <br>
+
+![BugReport4](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+<br>
+<hr>
+<br>
+
+## 5. BUG REPORT ##
+<br><br>
+**Summary:** Cart | Grand Total of the cart isn’t equal to the price of the products that are placed in the cart. <br>
+
+**BugID:** AcademyBugs#004<br>
+
+**Type of bug:** Visual<br>
+
+**Description:** <br>
+
+**Steps to reproduce:** <br> 
+  1. Visit page https://academybugs.com/contact-us-form/ <br>
+  2. Click on ‘Add to cart’ for several products. <br>
+  3. Press on the appeared green button ‘Checkout now’.<br>
+  4. After being redirected to the cart, remove items from cart by clicking ‘X’ button on the left side of the product.<br>
+
+**Expected:** After removing all the products from the cart blue button should appear with the text ‘RETURN TO STORE’<br>
+**Actual:** When user emptied cart, button is displayed with the text that has spelling mistake ‘RETURN TO STOR	E’.<br>
+
+**Environment:** Any browser <br>
+
+**Severity:** Low<br>
+**Priority:** Low<br>
+**Repro rate:** 100%<br>
+**Attachment:** <br>
+
+![BugReport5](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+<br>
+<hr>
+<br>
+
+## 6. BUG REPORT ##
+<br><br>
+**Summary:** Account page | Text isn’t written in English. <br>
+
+**BugID:** AcademyBugs#005<br>
+
+**Type of bug:** Content<br>
+
+**Description:** <br>
+
+**Steps to reproduce:** <br> 
+  1. Visit page https://academybugs.com/contact-us-form/ <br>
+  2. Navigate to the ‘New user’ section. <br>
+
+**Expected:** All text should be written in English since it is the main language of the website.<br>
+**Actual:** Text in ‘New user’ section isn’t displayed in English language.<br>
+
+**Environment:** Any browser <br>
+
+**Severity:** Low<br>
+**Priority:** Low<br>
+**Repro rate:** 100%<br>
+**Attachment:** <br>
+
+![BugReport6](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+<br>
+<hr>
+<br>
+
+## 7. BUG REPORT ##
+<br><br>
+**Summary:** Anchor Bracelet page | Page is loading infinitely after opening the page. <br>
+
+**BugID:** AcademyBugs#006<br>
+
+**Type of bug:** Performance<br>
+
+**Description:** <br>
+
+**Steps to reproduce:** <br> 
+  1. Open any product on the page.<br>
+  2. Open the product on the ‘Hot item’ section named ‘Anchor Bracelet’.<br>
+
+**Expected:** After opening the product page it should load immediately.<br>
+**Actual:** Spinner is spinning infinitely.<br>
+
+**Environment:** Any browser <br>
+
+**Severity:** Medium<br>
+**Priority:** Medium<br>
+**Repro rate:** 100%<br>
+**Attachment:** <br>
+
+![BugReport7](https://drive.google.com/file/d/1-nN7j4KW7SqXE1kwQH9Mp1DFoQSVFoTl/view?usp=sharing)
+<br>
+<hr>
+<br>
