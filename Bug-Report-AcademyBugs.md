@@ -22,7 +22,7 @@
 **Severity:** Low<br>
 **Priority:** Low<br>
 **Attachment:** 
-![bugreport](https://github.com/markonrt320/QA-portfolio/assets/164415938/2cd3ba91-789d-4b35-9a8e-c74c762ced24)
+
 <br>
 <hr>
 <br>
@@ -45,7 +45,7 @@
 **Severity:** High<br>
 **Priority:** High<br>
 **Attachment:** <br>
-
+![bugreport](https://github.com/markonrt320/QA-portfolio/assets/164415938/2cd3ba91-789d-4b35-9a8e-c74c762ced24)
 <br>
 <hr>
 <br>
