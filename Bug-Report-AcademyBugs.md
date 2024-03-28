@@ -139,6 +139,7 @@
 **Repro rate:** 100%<br>
 **Attachment:** <br>
 https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=sharing
+https://github.com/markonrt320/QA-portfolio/assets/164415938/a005e0df-14f7-4c06-bd20-e089436d4e11
 ![Slika4](https://github.com/markonrt320/QA-portfolio/assets/164415938/48d0cbe0-6b08-4749-a24f-bb101756c162)
 
 
@@ -200,6 +201,9 @@ https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=shari
 **Attachment:** <br>
 
 https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=sharing
+https://github.com/markonrt320/QA-portfolio/assets/164415938/e6e566cd-d651-4da6-88f6-894cb7e4c52b
+
+
 <br>
 <hr>
 <br>
