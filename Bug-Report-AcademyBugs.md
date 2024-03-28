@@ -1,5 +1,7 @@
 # Bug report #
+Bug reports are documents that detail the occurrence and characteristics of software defects or anomalies. They typically include information such as the steps to reproduce the bug, expected versus actual behavior, screenshots or recordings, and any relevant system configurations.<br>
 Academy Bugs helps you to understand the different types of bugs and aids you to differentiate between them by showcasing what/where might be a bug.
+
 <br>
 
 ## 1. BUG REPORT ##
