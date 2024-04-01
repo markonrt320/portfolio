@@ -13,7 +13,7 @@
 ### <hr>Test case with Decision table technique</hr>
 <br>
 
-### Test case 1 ###
+### Test case 1
 <br>
 
 **TC#ID:** TC#5 <br>
