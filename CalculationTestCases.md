@@ -9,27 +9,57 @@
 
 **Link towards done exercise:** [https://exercises.test-design.org/price-calculation/](https://docs.google.com/spreadsheets/d/1hwt04WsVG31fMBzntjA8nLbWcb6BRelyOqFmTMKn4JM/edit?usp=sharing)
 
-### Test case 1 ###
+### <hr>Test case with Decision table technique</hr>
 <hr>
 
+### Test case 1 ###
+
 **TC#ID:** TC#5 <br>
+**Test case title:** Verify 10% Price Reduction <br><br>
+**Description:** Verify that the customer receives a 10% price reduction when the price of the goods exceeds 200 euros. <br><br>
+**Precondition:** "User has browser opened and is located on page https://exercises.test-design.org/price-calculation/" <br><br>
+**Steps:**
+
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :-: | :- |
+|1|Enter valid price.|245|Price input field should be filled.|
+|2|Enter valid weight.|4|Weight input field should be filled.|
+|3|Click button 'Next step'||Calculator should accept provided values. Discount should be included and total price should be reduced by 10%|
 
 
 ### Test case 2 ###
 <hr>
+
 **TC#ID:** TC#9 <br>
+**Test case title:**
+**Description:**
+**Precondition:**
+**Steps:**
 
 ### Test case 3 ###
 <hr>
+
 **TC#ID:** TC#16 <br>
+**Test case title:**
+**Description:**
+**Precondition:**
+**Steps:**
 
 ### Test case 4 ###
 <hr>
+
 **TC#ID:** TC#16 <br>
+**Test case title:**
+**Description:**
+**Precondition:**
+**Steps:**
+
 
 ### Test case 5 ###
 <hr>
+
 **TC#ID:** TC#20 <br>
-
-
-
+**Test case title:**
+**Description:**
+**Precondition:**
+**Steps:**
