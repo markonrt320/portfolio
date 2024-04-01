@@ -4,6 +4,7 @@
 <br>
 **Exercise resume:** This exercise presents a comprehensive scenario involving price calculation for goods purchased online, incorporating various rules and conditions. Participants are tasked with designing a system to calculate the final price to be paid by the customer, considering factors such as price reductions, delivery costs, payment methods, and order specifications.<br>
 <br>
+![123](https://github.com/markonrt320/QA-portfolio/assets/164415938/124ed4de-c8bc-45a5-9141-a7fe04a341a8)
 
 **Link towards exercise:** https://exercises.test-design.org/price-calculation/
 
