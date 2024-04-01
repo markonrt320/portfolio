@@ -10,9 +10,10 @@
 **Link towards done exercise:** [https://exercises.test-design.org/price-calculation/](https://docs.google.com/spreadsheets/d/1hwt04WsVG31fMBzntjA8nLbWcb6BRelyOqFmTMKn4JM/edit?usp=sharing)
 
 ### <hr>Test case with Decision table technique</hr>
-<hr>
+<br>
 
 ### Test case 1 ###
+<br>
 
 **TC#ID:** TC#5 <br>
 **Test case title:** Verify 10% Price Reduction <br><br>
@@ -26,9 +27,10 @@
 |2|Enter valid weight.|4|Weight input field should be filled.|
 |3|Click button 'Next step'||Calculator should accept provided values. Discount should be included and total price should be reduced by 10%|
 
-<hr>
+<br>
 
 ### Test case 2 ###
+<br>
 
 **TC#ID:** TC#2 <br>
 **Test case title:** Verify 15% Price Reduction for Credit Card Payment, Price at Threshold, and Weight Under Limit <br><br>
@@ -43,11 +45,13 @@
 |3|Check 'Pay with credit card' checkbox.||Checkbox should be checked.|
 |4|Click button 'Next step'||Calculator should accept provided values. Discount should be included and total price should be reduced by 15%.|
 
-### <hr>Test case with Boundary value analysis</hr>
-<hr>
+<br>
+
+### <hr>Test cases with Boundary value analysis</hr>
+<br>
 
 ### Test case 3 ###
-<hr>
+<br>
 
 **TC#ID:** TC#6 <br>
 **Test case title:** Verifying 10% Price Reduction Just Below Threshold <br>
@@ -61,8 +65,10 @@
 |2|Enter valid weight.|15|Weight input field should be filled.|
 |3|Click button 'Next step'||Calculator should accept provided values. Discount should not be included and total price should not be reduced by 10%.|
 
+<br>
+
 ### Test case 4 ###
-<hr>
+<br>
 
 **TC#ID:** TC#7 <br>
 **Test case title:** Verify 10% Price Reduction at Threshold <br>
@@ -76,8 +82,10 @@
 |2|Enter valid weight.|15|Weight input field should be filled.|
 |3|Click button 'Next step'||Calculator should accept provided values. Discount should not be included and total price should not be reduced by 10%.|
 
+<br>
+
 ### Test case 5 ###
-<hr>
+<br>
 
 **TC#ID:** TC#8 <br>
 **Test case title:** Verify 10% Price Reduction Just Above Threshold <br>
