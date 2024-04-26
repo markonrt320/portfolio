@@ -97,13 +97,12 @@ Root end point is `https://simple-books-api.glitch.me`, also this end point is p
 ## TC#ID: 8 ##
 **Test case title:**  Attempt to Submit Order for Unavailable Book<br>
 **Description:** Ensure that attempting to submit an order for an unavailable book returns the expected response with a status code of 404.<br>
-**Precondition:** Auth<br><br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
 **Steps:**
 |No.|Test Steps|Test Data|Expected Results|
 | :-: | :- | :- | :- |
-|1|In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.|Authorization token|Authorization token should be placed.|
-|2|Set the request body with the ID of an unavailable book({{unavailableBookId}}) and a random customer name.|{"bookId": "{{unavailableBookId}}","customerName": "{{name}}"}|Request body should be set.|
-|3|Send a POST request to the endpoint for submitting an order /orders and verify that the response status code is 404.||The response status code should be 404 because book isn't on stock.|
+|1|Set the request body with the ID of an unavailable book({{unavailableBookId}}) and a random customer name.|{"bookId": "{{unavailableBookId}}","customerName": "{{name}}"}|Request body should be set.|
+|2|Send a POST request to the endpoint for submitting an order /orders and verify that the response status code is 404.||The response status code should be 404 because book isn't on stock.|
 
 
 
