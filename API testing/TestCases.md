@@ -1,6 +1,6 @@
 # Test cases - API testing #
 
-Root end point is `https://simple-books-api.glitch.me`, also this end point is placed in collection variable {{baseUrl}}.
+Root end point is `https://simple-books-api.glitch.me`, also this endpoint is placed in collection variable {{baseUrl}}.
 
 ## TC#ID: 1 ##
 **Test case title:** Verify endpoint status response<br>
