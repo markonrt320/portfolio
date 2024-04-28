@@ -105,6 +105,75 @@ Root end point is `https://simple-books-api.glitch.me`, also this end point is p
 |2|Send a POST request to the endpoint for submitting an order /orders and verify that the response status code is 404.||The response status code should be 404 because book isn't on stock.|
 
 
+## TC#ID: 9 ##
+**Test case title:**  Submit Order for Available Book<br>
+**Description:** Ensure that submitting an order for an available book returns the expected response with a status code of 201, and the order ID is correctly stored in collection variables for further use.<br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
+**Steps:**
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :- | :- |
+|1|Set the request body with the ID of an available book (bookId: 4) and a random customer name.|{"bookId": 4,"customerName": "{{name}}"}|Request body should be set.|
+|2|Send a POST request to the endpoint for submitting an order /orders and verify that the response status code is 201.||The response status code should be 201.|
+|3|Retrieve the order ID from the response and store it in collection variables.||The order ID should be retrieved from the response and stored in collection variables.|
+
+
+## TC#ID: 10 ##
+**Test case title:** Retrieve All Orders<br>
+**Description:**  Ensure that retrieving all orders returns the expected response with a status code of 200.<br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
+**Steps:**
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :- | :- |
+|1|Send a GET request to the endpoint for retrieving all orders /orders.||The response status code should be 200.|
+|2|Verify that the response body is an array.||Response body should be an array.|
+
+## TC#ID: 11 ##
+**Test case title:** Retrieve Single Order Details with the right order ID and Validate JSON Schema<br>
+**Description:**  Ensure that retrieving details for a specific order returns the expected response with a status code of 200, and the response data matches the defined JSON schema.<br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
+**Steps:**
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :- | :- |
+|1|Send a GET request to the endpoint for retrieving details of a specific order /orders/:orderId.|orderId={{orderId}}|The response status code should be 200|
+|2|Parse the response body as JSON and define a JSON schema for the order data structure.||Response is successfully parsed dand JSON schema is defined.|
+|3|Validate the response data against the defined JSON schema.||The response data should match the defined JSON schema.|
+
+## TC#ID: 11-B ##
+**Test case title:** Retrieve Single Order Details with the wrong order ID<br>
+**Description:**  Ensure that querying for an order using an invalid or non-existent orderId returns the expected response with a status code indicating the orderId was not found.<br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
+**Steps:**
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :- | :- |
+|1|Send a GET request to the endpoint for retrieving order details /orders/:orderId with an invalid orderId.|orderId=/|Request should be sent.|
+|2|Verify that the response status code indicates the orderId was not found.||The response status code should be 404|
+
+
+## TC#ID: 12 ##
+**Test case title:** Update Order Customer Name<br>
+**Description:**  Ensure that updating the customer name of an order returns the expected response with a status code of 204.<br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
+**Steps:**
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :- | :- |
+|1|Set the request body with a random full name.|{"customerName": "{{$randomFullName}}"}|Request body should be set.|
+|2|Send a PATCH request to the endpoint for updating the customer name of a specific order /orders/:orderId.|orderId={{orderId}}|Request should be sent.|
+
+## TC#ID: 13 ##
+**Test case title:** Delete Order<br>
+**Description:**  Ensure that deleting an order returns the expected response with a status code of 204.<br>
+**Precondition:** In the Authorization tab set the type as 'Bearer Token' and in Token tab place {{authToken}} variable that was previously made.<br><br>
+**Steps:**
+|No.|Test Steps|Test Data|Expected Results|
+| :-: | :- | :- | :- |
+|1|Send a DELETE request to the endpoint for deleting a specific order /orders/:orderId.|orderId={{orderId}}|Request should be sent.|
+|2|Verify that the response status code is 204.||The response status code should be 204.|
+
+
+
+
+
+
 
 
 
