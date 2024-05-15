@@ -2,9 +2,9 @@
 
 <br>
 
-Current: Current state in app
-Requested: What changes should be made, what should be deleted, what should be added.
-Reason: Reason why this app needs improvement. Is it making user experience better?
+Current: Current state in app <br>
+Requested: What changes should be made, what should be deleted, what should be added. <br>
+Reason: Reason why this app needs improvement. Is it making user experience better? <br>
 
 <br>
 
